@@ -10,7 +10,7 @@
 ⦿ Suggest teams or players a company should endorse for its products.<br>
 ⦿ You can choose any of the tool of your choice
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-- Here is the dataset :
+
 
 
 
