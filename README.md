@@ -29,10 +29,7 @@
 <br />
 <hr />
 
-[youtube]: https://www.youtube.com/channel/UCBY1EFXHzR7EG1kaVC73pYA
-[gmail]: mailto:meloidasdragneel12@gmail.com
-[linkedin]: https://www.linkedin.com/in/manish-ghoshal-454ba0205/
-[github]: https://github.com/manishghoshal99
+
 
 
 
