@@ -11,12 +11,8 @@
 ⦿ You can choose any of the tool of your choice
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="https://github.com/manishghoshal99/Exploratory-Data-Analysis---Sports/tree/main/Dataset">Dataset.csv</a><br>
-> Solution:
-<a href="https://github.com/manishghoshal99/Exploratory-Data-Analysis---Sports/blob/main/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
 
-> Demo:
-<a href="https://youtu.be/knI29IOzuuY">Exploratory Data Analysis - Sports</a>
+
 
 <br><br>
 <p align="center">
